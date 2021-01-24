@@ -8,7 +8,7 @@ class ServerRules extends Component {
 					<div>
 						<h1>Server Rules</h1>
 						<span className='bold'>
-							This page was last updated on November 4th, 2019 (revamped).
+							This page was last updated on January 25th, 2021.
 						</span>
 						<p>
 							Failure to abide by any of the rules listed on this page may result 
@@ -19,7 +19,7 @@ class ServerRules extends Component {
 					</div>
 					<hr />
 					<div>
-						<h2>General Composure</h2>
+						<h2>General Guidelines</h2>
 						<ol>
 							<li>
 								Ensure that you are respectful to all players and are
@@ -32,7 +32,7 @@ class ServerRules extends Component {
 								environment; Warzone has no room for toxicity.
 							</li>
 							<li>
-								Do not leak personal information. Sharing someone's IP address, phone number
+								Do not leak personal information. Sharing someone's IP address, home address, phone number
 								or other commonly hidden information will result in a blacklist. 
 								Your access to our Discord server and Minecraft server will be permanently taken away. 
 							<li>
@@ -51,11 +51,17 @@ class ServerRules extends Component {
 								allowed.
 							</li>
 							<li>
-								Discrimination of any kind will not be tolerated.
+								Discrimination of any kind will not be tolerated. This includes discrimination of age, 
+								gender, race, disability, religion, sexual orientation, and more.
 							<li>
 								The use of excessive capitalization, flooding chat with characters, 
-								and spamming are all punishable offenses.
+								and spamming are all punishable offenses. 
 							</li>
+							<li> 
+								Evading a punishment will result in a harsher punishment. You are not permitted to speak in #server-chat on 
+								our Discord if you are muted in-game, and you may not join our Discord or Minecraft server with an alternet account
+								to evade a ban or mute. Evasion of any kind will result in a decreased chance of your appeal being accepted and 
+								may potentially result in a harsher punishment.
 							<li>
 								Client modifications that give you an unfair advantage over
 								other players are not permitted. Unofficial clients (like Badlion Client) 
@@ -107,8 +113,8 @@ class ServerRules extends Component {
 								hardware or software modifications to allow automated clicking,
 								changing standard mouse settings, modifications to standard
 								hardware limitations, etc. are not permitted. Any clicks beyond
-								one click at a time is not permitted, meaning butterfly
-								clicking is not allowed.
+								one click at a time is not permitted, butterfly clicking and drag clicking
+								are both unacceptable clicking methods.
 							</li>
 						</ol>
 					</div>
@@ -117,7 +123,7 @@ class ServerRules extends Component {
 						<ol>
 							<li>
 								Please keep all channels on topic. Be sure to read pinned
-								messages in each channel if there are any.
+								messages in each channel if there are any. 			 		
 							</li>
 							<li>
 								Keep all names, profile pictures, and chats appropriate. We do
