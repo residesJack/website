@@ -5,14 +5,6 @@ class Screenshare extends Component {
 	render() {
 		return (
 			<div className='page'>
-				<div className='container'>
-					<Alert className='alert' severity='info'>
-						Warzone has only announced the planned use of screensharing
-						recently, so we are giving players time to familiarise themselves
-						with the Screenshare Policy before we start screensharing. <br />
-						<br /> Warzone will not commence screensharing until{' '}
-						<span class='bold'>August 10th 2021</span>.
-					</Alert>
 					<div>
 						<h1>Screenshare Policy</h1>
 						<span className='bold'>
